@@ -1082,6 +1082,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 - [Trilium Notes](https://github.com/zadam/trilium) - Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. `AGPL-3.0` `Nodejs`
 - [Turtl](https://turtl.it/) - Totally private personal database and note taking app. ([Source Code](https://github.com/turtl)) `GPL-3.0` `CommonLisp`
 - [Writing](https://josephernest.github.io/writing/) - Lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported). No lag when writing. ([Source Code](https://github.com/josephernest/writing)) `MIT` `Javascript`
+- [MinDoc](https://github.com/lifei6671/mindoc) - A simple and easy-to-use document management system developed for IT teams. `Apache-2.0` `Golang`
 
 ## Office Suites
 
